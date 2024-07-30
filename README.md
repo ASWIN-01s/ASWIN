@@ -1,10 +1,19 @@
-![MasterHead](https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b07c91ac1f9b1cadbc38998504/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+![MasterHead]
+<img align="right" width=1000
+        src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro"
+        alt="Mario" />
 <h1 align="center">Hi 👋, I'm Aswin S</h1>
 <h3 align="center">A passionate Data Engineer and Data Enthusiast from India</h3>
 
 - 🔭 I’m currently working on **Data Engineering Related Projects**
 
 - 📫 How to reach me **aswinsivakumar01s@gmail.com**
+
+
+<p><img align="right" width=350
+        src="https://www.gifcen.com/wp-content/uploads/2022/08/mario-gif-4.gif"
+        alt="Mario" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
